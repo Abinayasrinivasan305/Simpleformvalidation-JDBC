@@ -17,8 +17,7 @@ git clone https://github.com/yourusername/Simpleformvalidation-JDBC.git
 
 Database Setup:
 
-sql
-Copy code
+sql:
 CREATE DATABASE yourdatabase;
 USE yourdatabase;
 
